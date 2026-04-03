@@ -1,5 +1,9 @@
 React v19.24 - Typescript and Vite 8.8.0 starter project
 
+Dependencies
+
+1. Node 24.13.1
+2. Npm 11.8.0
 
 
 Features :
