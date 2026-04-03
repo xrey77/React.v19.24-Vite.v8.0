@@ -1,5 +1,17 @@
 React v19.24 - Typescript and Vite 8.8.0 starter project
 
+
+
+Features :
+
+Authentication and Authorization BryCrypt, JWT
+Time Based One Time Password Authenticator
+User Profile Picture upload/update
+Product Listings and Pagination
+User Account Activation via Email
+Products Report - PDF
+Annual Sales Chart
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
